@@ -2,5 +2,5 @@
 
 # TO DO List
 
-* [] Support for recognition basic sign
-* [] Support for sentence level recognition
+* [ ] Support for recognition basic sign
+* [ ] Support for sentence level recognition
